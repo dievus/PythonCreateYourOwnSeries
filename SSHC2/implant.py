@@ -7,7 +7,7 @@ import socket
 import getpass
 
 def SSH_comm():
-    ip = '192.168.1.66'
+    ip = '<ipaddrhere>'
     port = 2222
     username = 'sshuser'
     password = 'sshpass'
