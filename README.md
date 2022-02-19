@@ -9,3 +9,5 @@ I am sharing these files because some of you may be like me and benefit and lear
 Create Your Own Subdomain Enumeration Tool - https://www.youtube.com/watch?v=E5BklV9I2-4
 
 Create Your Own DNS Resolver - https://www.youtube.com/watch?v=SLQrbjeVrk0
+
+Create Your Own C2 Framework Over SSH - https://www.youtube.com/watch?v=iP7eFbZPgss
